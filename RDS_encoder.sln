@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDS_encoder", "RDS_encoder\RDS_encoder.csproj", "{114A74B1-3C03-4B40-9035-1D396A56860F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114A74B1-3C03-4B40-9035-1D396A56860F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114A74B1-3C03-4B40-9035-1D396A56860F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114A74B1-3C03-4B40-9035-1D396A56860F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114A74B1-3C03-4B40-9035-1D396A56860F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6598E88-FB92-4BD9-8538-328DF5A6AF08}
+	EndGlobalSection
+EndGlobal
