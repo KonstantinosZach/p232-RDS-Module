@@ -5,3 +5,14 @@
 
 ### **Λειτουργία του προγράμματος**
 Συγκεκριμένα στην αρχή διαθέτει ένα menu interface στο οποίο μπορούμε να επιλέξουμε τις ρυθμίσεις της προτίμησης μας, όπως com port, scroll speed, number of repeats και άλλα. Μόλις καταχωρήσουμε τις ρυθμίσεις μεταφερόμαστε στην οθόνη που πληκτρολογούμε την είσοδο (string) που θέλουμε να εμφανιστεί στο ραδιόφωνο.
+
+#### Menu
+<p align="center">
+  <img src="screenshots/frame2.png"/> 
+  <img src="screenshots/frame3.png"/>
+</p>
+
+#### Insterting message
+<p align="center">
+  <img src="screenshots/frame1.png" />
+</p>
